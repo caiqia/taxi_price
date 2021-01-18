@@ -2,12 +2,16 @@
 Ce projet est une application prototype qui calcule le prix d'un trajet pour l'ensemble de leur flotte de taxis.
 
 ### Exécution
-back-end: Allez à la répertoire backend
+back-end:
+Allez à la répertoire backend
 ```
 cd backend
 npm start
 ```
-front-end: Allez à la répertoire my-app
+Vous pouvez utiliser Postman pour tester l'application back-end
+
+front-end:
+Allez à la répertoire my-app
 ```
 cd my-app
 npm start
